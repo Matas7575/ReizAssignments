@@ -1,0 +1,15 @@
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\BranchesAssigment\bin\Debug\net7.0\BranchesAssigment.exe
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\BranchesAssigment\bin\Debug\net7.0\BranchesAssigment.deps.json
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\BranchesAssigment\bin\Debug\net7.0\BranchesAssigment.runtimeconfig.json
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\BranchesAssigment\bin\Debug\net7.0\BranchesAssigment.dll
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\BranchesAssigment\bin\Debug\net7.0\BranchesAssigment.pdb
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\BranchesAssigment\obj\Debug\net7.0\BranchesAssigment.csproj.AssemblyReference.cache
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\BranchesAssigment\obj\Debug\net7.0\BranchesAssigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\BranchesAssigment\obj\Debug\net7.0\BranchesAssigment.AssemblyInfoInputs.cache
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\BranchesAssigment\obj\Debug\net7.0\BranchesAssigment.AssemblyInfo.cs
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\BranchesAssigment\obj\Debug\net7.0\BranchesAssigment.csproj.CoreCompileInputs.cache
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\BranchesAssigment\obj\Debug\net7.0\BranchesAssigment.dll
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\BranchesAssigment\obj\Debug\net7.0\refint\BranchesAssigment.dll
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\BranchesAssigment\obj\Debug\net7.0\BranchesAssigment.pdb
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\BranchesAssigment\obj\Debug\net7.0\BranchesAssigment.genruntimeconfig.cache
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\BranchesAssigment\obj\Debug\net7.0\ref\BranchesAssigment.dll

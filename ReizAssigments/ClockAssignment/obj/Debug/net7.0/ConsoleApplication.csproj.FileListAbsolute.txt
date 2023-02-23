@@ -1,0 +1,15 @@
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ConsoleApplication\bin\Debug\net7.0\ConsoleApplication.exe
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ConsoleApplication\bin\Debug\net7.0\ConsoleApplication.deps.json
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ConsoleApplication\bin\Debug\net7.0\ConsoleApplication.runtimeconfig.json
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ConsoleApplication\bin\Debug\net7.0\ConsoleApplication.dll
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ConsoleApplication\bin\Debug\net7.0\ConsoleApplication.pdb
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ConsoleApplication\obj\Debug\net7.0\ConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ConsoleApplication\obj\Debug\net7.0\ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ConsoleApplication\obj\Debug\net7.0\ConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ConsoleApplication\obj\Debug\net7.0\ConsoleApplication.AssemblyInfo.cs
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ConsoleApplication\obj\Debug\net7.0\ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ConsoleApplication\obj\Debug\net7.0\ConsoleApplication.dll
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ConsoleApplication\obj\Debug\net7.0\refint\ConsoleApplication.dll
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ConsoleApplication\obj\Debug\net7.0\ConsoleApplication.pdb
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ConsoleApplication\obj\Debug\net7.0\ConsoleApplication.genruntimeconfig.cache
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ConsoleApplication\obj\Debug\net7.0\ref\ConsoleApplication.dll

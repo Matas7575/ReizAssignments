@@ -1,0 +1,15 @@
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ReizAssigments\bin\Debug\net7.0\ReizAssigments.deps.json
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ReizAssigments\bin\Debug\net7.0\ReizAssigments.dll
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ReizAssigments\bin\Debug\net7.0\ReizAssigments.pdb
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ReizAssigments\obj\Debug\net7.0\ReizAssigments.csproj.AssemblyReference.cache
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ReizAssigments\obj\Debug\net7.0\ReizAssigments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ReizAssigments\obj\Debug\net7.0\ReizAssigments.AssemblyInfoInputs.cache
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ReizAssigments\obj\Debug\net7.0\ReizAssigments.AssemblyInfo.cs
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ReizAssigments\obj\Debug\net7.0\ReizAssigments.csproj.CoreCompileInputs.cache
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ReizAssigments\obj\Debug\net7.0\ReizAssigments.dll
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ReizAssigments\obj\Debug\net7.0\refint\ReizAssigments.dll
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ReizAssigments\obj\Debug\net7.0\ReizAssigments.pdb
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ReizAssigments\obj\Debug\net7.0\ref\ReizAssigments.dll
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ReizAssigments\bin\Debug\net7.0\ReizAssigments.exe
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ReizAssigments\bin\Debug\net7.0\ReizAssigments.runtimeconfig.json
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ReizAssigments\obj\Debug\net7.0\ReizAssigments.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ClockAssigment\bin\Debug\net7.0\ClockAssigment.exe
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ClockAssigment\bin\Debug\net7.0\ClockAssigment.deps.json
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ClockAssigment\bin\Debug\net7.0\ClockAssigment.runtimeconfig.json
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ClockAssigment\bin\Debug\net7.0\ClockAssigment.dll
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ClockAssigment\bin\Debug\net7.0\ClockAssigment.pdb
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ClockAssigment\obj\Debug\net7.0\ClockAssigment.csproj.AssemblyReference.cache
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ClockAssigment\obj\Debug\net7.0\ClockAssigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ClockAssigment\obj\Debug\net7.0\ClockAssigment.AssemblyInfoInputs.cache
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ClockAssigment\obj\Debug\net7.0\ClockAssigment.AssemblyInfo.cs
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ClockAssigment\obj\Debug\net7.0\ClockAssigment.csproj.CoreCompileInputs.cache
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ClockAssigment\obj\Debug\net7.0\ClockAssigment.dll
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ClockAssigment\obj\Debug\net7.0\refint\ClockAssigment.dll
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ClockAssigment\obj\Debug\net7.0\ClockAssigment.pdb
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ClockAssigment\obj\Debug\net7.0\ClockAssigment.genruntimeconfig.cache
+C:\Users\matas\Documents\examDNPcases\ReizAssigments\ReizAssigments\ClockAssigment\obj\Debug\net7.0\ref\ClockAssigment.dll
